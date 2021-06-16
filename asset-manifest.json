@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abhi-tech-09/Todo-list/static/css/main.fc764194.chunk.css",
+    "main.js": "/Abhi-tech-09/Todo-list/static/js/main.549b4dd6.chunk.js",
+    "main.js.map": "/Abhi-tech-09/Todo-list/static/js/main.549b4dd6.chunk.js.map",
+    "runtime-main.js": "/Abhi-tech-09/Todo-list/static/js/runtime-main.4d4c1236.js",
+    "runtime-main.js.map": "/Abhi-tech-09/Todo-list/static/js/runtime-main.4d4c1236.js.map",
+    "static/js/2.3341803d.chunk.js": "/Abhi-tech-09/Todo-list/static/js/2.3341803d.chunk.js",
+    "static/js/2.3341803d.chunk.js.map": "/Abhi-tech-09/Todo-list/static/js/2.3341803d.chunk.js.map",
+    "static/js/3.0f8b8ac0.chunk.js": "/Abhi-tech-09/Todo-list/static/js/3.0f8b8ac0.chunk.js",
+    "static/js/3.0f8b8ac0.chunk.js.map": "/Abhi-tech-09/Todo-list/static/js/3.0f8b8ac0.chunk.js.map",
+    "index.html": "/Abhi-tech-09/Todo-list/index.html",
+    "static/css/main.fc764194.chunk.css.map": "/Abhi-tech-09/Todo-list/static/css/main.fc764194.chunk.css.map",
+    "static/js/2.3341803d.chunk.js.LICENSE.txt": "/Abhi-tech-09/Todo-list/static/js/2.3341803d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4c1236.js",
+    "static/js/2.3341803d.chunk.js",
+    "static/css/main.fc764194.chunk.css",
+    "static/js/main.549b4dd6.chunk.js"
+  ]
+}
