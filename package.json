@@ -1,6 +1,6 @@
 {
   "name": "todos-list",
-  "homepage":  "https://abhi-tech-09.github.io/Todo-list/",
+  "homepage":  "https://abhi-tech-09.github.io/Todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
