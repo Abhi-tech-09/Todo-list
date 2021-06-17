@@ -6,7 +6,7 @@ import Todos from './myComponents/Todos'
 import AddTodo from "./myComponents/AddTodo"
 import About from "./myComponents/About"
 import {
-  BrowserRouter as Router , 
+  HashRouter as Router , 
   Switch , 
   Route
 } from "react-router-dom"
